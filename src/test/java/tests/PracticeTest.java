@@ -14,6 +14,8 @@ public class PracticeTest {
 	WebDriver driver;
 	
 	//Making changes for kerim branch
+	
+	//Changes added by Dogan
 
 	@Test
 	public void m1() {
